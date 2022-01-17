@@ -1,5 +1,6 @@
 {
   "name": "prueba_ygo_next",
+  "homepage": "https://jeremy-carreras.github.io/prueba_ygo_next/",
   "private": true,
   "scripts": {
     "dev": "next dev",
