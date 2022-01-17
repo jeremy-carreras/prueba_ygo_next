@@ -20,7 +20,6 @@ const Main = () => {
             <p className="h6"><b>Tipo:</b> {SELECTED_CARD.type}</p>
             <p className="h6"><b>Descripción:</b> {SELECTED_CARD.desc}</p>
             <p className="h6"><b>Race:</b> {SELECTED_CARD.race}</p>
-            <img src={SELECTED_CARD.card_images[0].image_url}></img>
           </Col>
         </Row>
       </div>
